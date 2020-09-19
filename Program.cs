@@ -15,6 +15,7 @@ namespace SortString
             Array.Sort(sa);
             s = string.Join(" ", sa); 
             Console.WriteLine(s);
+
             Console.ReadLine();
         }
     }
